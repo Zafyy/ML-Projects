@@ -1,13 +1,13 @@
-#Machine Learning Projects and Implementations
+# **Machine Learning Projects and Implementations**
 This repository showcases practical implementations of core Machine Learning algorithms, demonstrating a solid understanding of both supervised and unsupervised learning techniques. Each project focuses on algorithm functionality, data preprocessing, and key performance metrics, applying ML knowledge to solve real-world problems.
 
-Contents:
+## **Contents**
 -Supervised Learning: Linear & Logistic Regression, Decision Trees
 -Unsupervised Learning: K-Means Clustering, PCA
 -Deep Learning: Neural Networks, CNNs for image classification
 -Reinforcement Learning: Q-Learning, DQNs
 
-Key Skills Demonstrated:
+## **Key Skills Demonstrated**
 -Data Handling: Preprocessing, feature engineering
 -Model Evaluation: Precision, recall, accuracy, AUC, R²
 -Tools: Scikit-Learn, TensorFlow, PyTorch
